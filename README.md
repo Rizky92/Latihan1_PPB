@@ -3,6 +3,7 @@ H171600554
 
 # List yang sudah ngumpul
 [H171600546 - Irma Husnul Khotimah](https://github.com/Irma07/H171600546_IrmaHusnul)  
+[H171600547 - Juwiati](https://github.com/Juwiati/Juwiati_H171600547)  
 [H171600549 - Kholifatun Rodiah](https://github.com/kholifatunrodiah03/tugas1)  
 [H171600550 - Linda](https://github.com/Linda12samarinda/Linda_Android)  
 [H171600552 - Maryam Lestari](https://github.com/maryamlestari/project1)  
