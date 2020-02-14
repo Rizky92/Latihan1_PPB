@@ -12,4 +12,5 @@ H171600554
 [H171600562 - Rismayanti](https://github.com/rismayanti1008/Tugas-tampil-nama)  
 [H171600564 - Sudirman](https://github.com/sudirman10/tugas1)  
 [H171600565 - Suriyati](https://github.com/suriyatiH171600565/masukan_nama)  
+[H171600567 - Veronika](https://github.com/veronika482/Tugas-Tampilnama)  
 [H171600568 - Wulan Puspita Sari](https://github.com/Wulanpuspita/wulantampilnama)  
