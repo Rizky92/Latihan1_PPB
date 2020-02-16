@@ -3,6 +3,7 @@ H171600554
 
 # List yang sudah ngumpul
 [H171600537 - Afada Wafri Arugia](https://github.com/afadaarugia/tugasppb.git)  
+[H171600539 - Alfa Lusari Nadia](https://github.com/alfa09111999/TUGAS1)  
 [H171600540 - Amin Rais](https://github.com/aminrais86/TUGAS_Android.git)  
 [H171600542 - Dani Wahyudi](https://github.com/DaniWahyudi/TUGAS1.git)  
 [H171600543 - Firmansyah](https://github.com/firedenx12/Android_Intent.git)  
@@ -20,7 +21,7 @@ H171600554
 [H171600562 - Rismayanti*](https://github.com/rismayanti1008/Tugas-tampil-nama)  
 [H171600564 - Sudirman](https://github.com/sudirman10/tugas1)  
 [H171600565 - Suriyati*](https://github.com/suriyatiH171600565/masukan_nama)  
-[H171600566 - Trikoyat](https://github.com/Trikoyat03/Tugas-1)  
+[H171600566 - Trikoyat](https://github.com/Trikoyat03/TUGAS-Android-1)  
 [H171600567 - Veronika](https://github.com/veronika482/Tugas-Tampilnama)  
 [H171600568 - Wulan Puspita Sari*](https://github.com/Wulanpuspita/wulantampilnama)  
 
