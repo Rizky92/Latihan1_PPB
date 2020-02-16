@@ -7,7 +7,7 @@ H171600554
 [H171600540 - Amin Rais](https://github.com/aminrais86/TUGAS_Android.git)  
 [H171600542 - Dani Wahyudi](https://github.com/DaniWahyudi/TUGAS1.git)  
 [H171600543 - Firmansyah](https://github.com/firedenx12/Android_Intent.git)  
-[H171600544 - Haerunnisyah*](https://github.com/haerunnisyah/Haerunnisyah_H171600544)  
+[H171600544 - Haerunnisyah](https://github.com/haerunnisyah/Haerunnisyah_H171600544)  
 [H171600546 - Irma Husnul Khotimah](https://github.com/Irma07/H171600546_IrmaHusnul)  
 [H171600547 - Juwiati](https://github.com/Juwiati/Juwiati_H171600547)  
 [H171600549 - Kholifatun Rodiah](https://github.com/kholifatunrodiah03/tugas1)  
@@ -24,5 +24,3 @@ H171600554
 [H171600566 - Trikoyat](https://github.com/Trikoyat03/TUGAS-Android-1)  
 [H171600567 - Veronika](https://github.com/veronika482/Tugas-Tampilnama)  
 [H171600568 - Wulan Puspita Sari](https://github.com/Wulanpuspita/wulantampilnama)  
-
-\* Ngerjakan/push git di laptop teman
